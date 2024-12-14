@@ -1,4 +1,4 @@
-**Two pointers**
+<h1>Two pointers</h1>
 * Two pointer is strategy used in algorithm design particularly when dealing with arrays or linked lists.
 * Imagine two pointer and place each at different ends or positions of an array. These pointers traverse through the array, helping you to compare, search or even manipulate the data efficiently. 
 
